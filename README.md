@@ -22,7 +22,7 @@ I recommend using [Vundle](https://github.com/gmarik/vundle#readme).
 
 **Vundle installation:**
 ```viml
-Bundle 'jalcine/TaskList.vim'
+Bundle 'jontrainor/TaskList.vim'
 ```
 
 You're done.
